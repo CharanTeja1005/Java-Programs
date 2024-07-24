@@ -1,0 +1,5 @@
+101,Nagarjuna,23,Maths,90
+102,Surya,16,Science,99
+103,Yashwanth,1,Maths,100
+104,Mahesh,0,Chemistry,99
+105,Charan,12,Movies,1000

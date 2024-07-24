@@ -1,0 +1,5 @@
+Student no: 101, Name: Nagarjuna, Age: 23, Subject: Maths, Score: 90
+Student no: 102, Name: Surya, Age: 16, Subject: Science, Score: 99
+Student no: 103, Name: Yashwanth, Age: 1, Subject: Maths, Score: 100
+Student no: 104, Name: Mahesh, Age: 0, Subject: Chemistry, Score: 99
+Student no: 105, Name: Charan, Age: 12, Subject: Movies, Score: 1000

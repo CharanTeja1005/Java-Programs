@@ -1,0 +1,124 @@
+{
+    "customers": [
+      {
+        "customerId": "C001",
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "phone": "123-456-7890",
+        "address": {
+          "addressId": "A001",
+          "street": "123 Main St",
+          "city": "Anytown",
+          "state": "CA",
+          "zipCode": "12345",
+          "country": "USA"
+        }
+      },
+      {
+        "customerId": "C002",
+        "name": "Jane Smith",
+        "email": "jane.smith@example.com",
+        "phone": "987-654-3210",
+        "address": {
+          "addressId": "A002",
+          "street": "456 Elm St",
+          "city": "Othertown",
+          "state": "NY",
+          "zipCode": "67890",
+          "country": "USA"
+        }
+      }
+    ],
+    "deposits": [
+      {
+        "depositId": "D001",
+        "customerId": "C001",
+        "amount": 1000.00,
+        "date": "2024-07-01",
+        "type": "Savings"
+      },
+      {
+        "depositId": "D002",
+        "customerId": "C002",
+        "amount": 2000.00,
+        "date": "2024-07-02",
+        "type": "Checking"
+      }
+    ],
+    "loans": [
+      {
+        "loanId": "L001",
+        "customerId": "C001",
+        "amount": 5000.00,
+        "startDate": "2024-01-15",
+        "endDate": "2027-01-15",
+        "interestRate": 5.0,
+        "status": "Active"
+      },
+      {
+        "loanId": "L002",
+        "customerId": "C002",
+        "amount": 10000.00,
+        "startDate": "2024-03-10",
+        "endDate": "2029-03-10",
+        "interestRate": 4.5,
+        "status": "Pending"
+      }
+    ],
+    "addresses": [
+      {
+        "addressId": "A001",
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zipCode": "12345",
+        "country": "USA"
+      },
+      {
+        "addressId": "A002",
+        "street": "456 Elm St",
+        "city": "Othertown",
+        "state": "NY",
+        "zipCode": "67890",
+        "country": "USA"
+      }
+    ],
+    "departments": [
+      {
+        "departmentId": "D001",
+        "name": "Sales",
+        "manager": "Alice Johnson"
+      },
+      {
+        "departmentId": "D002",
+        "name": "Support",
+        "manager": "Bob Lee"
+      }
+    ],
+    "locations": [
+      {
+        "locationId": "L001",
+        "name": "Main Branch",
+        "address": {
+          "addressId": "A003",
+          "street": "789 Oak St",
+          "city": "Maincity",
+          "state": "TX",
+          "zipCode": "54321",
+          "country": "USA"
+        }
+      },
+      {
+        "locationId": "L002",
+        "name": "Secondary Branch",
+        "address": {
+          "addressId": "A004",
+          "street": "321 Pine St",
+          "city": "Secondarycity",
+          "state": "FL",
+          "zipCode": "98765",
+          "country": "USA"
+        }
+      }
+    ]
+  }

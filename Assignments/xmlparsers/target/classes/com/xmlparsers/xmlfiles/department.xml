@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<department>
+    <employee employeeId="NS3556">
+        <address>
+            <city>Secunderabad</city>
+            <country>India</country>
+            <state>Telangana</state>
+        </address>
+        <age>22</age>
+        <name>Charan Teja</name>
+    </employee>
+    <employee employeeId="NS3547">
+        <address>
+            <city>Bangkok</city>
+            <country>India</country>
+            <state>Singapore</state>
+        </address>
+        <age>22</age>
+        <name>Surya Teja</name>
+    </employee>
+</department>
